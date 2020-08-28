@@ -1,0 +1,20 @@
+{
+  "name": "vue3-reactivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangliulang/vue3-reactivity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangliulang/vue3-reactivity/issues"
+  },
+  "homepage": "https://github.com/yangliulang/vue3-reactivity#readme"
+}
